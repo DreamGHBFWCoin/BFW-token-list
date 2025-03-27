@@ -1,0 +1,11 @@
+{
+  "name": "BFWCoin",
+  "symbol": "BFW$",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "BFWCoin (BFW$) is a digital currency revolutionizing fashion e-commerce.",
+  "website": "https://bfw.com.co/coin",
+  "explorer": "https://bscscan.com/token/0x86d319A5ac850daf0C801580625973e47A7582C2",
+  "status": "active",
+  "id": "0x86d319A5ac850daf0C801580625973e47A7582C2"
+}
