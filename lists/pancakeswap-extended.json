@@ -3436,5 +3436,13 @@
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
     }
+    {
+  "chainId": 56,
+  "address": "0x86d319a5ac850daf0c801580625973e47a7582c2",
+  "symbol": "BFW",
+  "name": "BFWCoin",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/DreamGHBFWCoin/assets/master/blockchains/binance-smart-chain/assets/0x86d319a5ac850daf0c801580625973e47a7582c2/logo.png"
+  }
   ]
 }
